@@ -1,0 +1,12 @@
+{
+  "name": "gulp-bower-boilerplate",
+  "description": "",
+  "main": "dist/app.js",
+  "authors": [
+    "Mickael Roy <roy-mickael@live.fr>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {}
+}
